@@ -14,7 +14,7 @@ La aplicación cuenta con el CV de uno de unos integrantes:
 
 [![My Skills](https://skillicons.dev/icons?i=angular,firebase)](https://skillicons.dev)
 
-## Instalación
+## ⏬ Instalación
 
 Para instalar el proyecto
 
@@ -31,13 +31,13 @@ Usando ionic correr el servidor
 
 Ademas contamos con el APK del projecto para usarlo en móviles
 
+[APK DOWNLOAD](https://github.com/bryandelgado99/CV_App-Ionic/releases/tag/pre-release)
+
 ## 🖼️ Screenshots
 
-- Pantalla Principal
-  ![App Screenshot](../Cv_Firebase/Recursos/Pantalla_principal.jpg)
+![App Screenshot](../Cv_Firebase/Recursos/img/Pantalla_principal.jpg)
 
-- Pantalla Secundaria
-  ![App Screenshot](../Cv_Firebase/Recursos/Habilidades_infinitescroll.jpg)
+![App Screenshot](../Cv_Firebase/Recursos/img/Habilidades_infinitescroll.jpg)
 
 ## 👫 Autores
 
