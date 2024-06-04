@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">cvapp</string>
+    <string name="title_activity_main">cvapp</string>
+    <string name="package_name">com.cv.app</string>
+    <string name="custom_url_scheme">com.cv.app</string>
+</resources>
