@@ -1,0 +1,137 @@
+<ion-header [translucent]="false">
+  <ion-toolbar>
+    <ion-title>Sobre Mí</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense" [translucent]="true">
+    <ion-toolbar>
+      <ion-title size="large">Sobre Mí</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+<!---Body App-->
+<main class="__main">
+  <div class="__col_img">
+    <img src="../../assets/images/me_photo.jpg" alt="" class="__me_img"/>
+  </div>
+
+  <section class="__main_info">
+    <div class="__info_1">
+      <h1>Paul Delgado</h1>
+      <p>Desarrollador de Software</p>
+    </div>
+
+    <div class="__card-container">
+
+      <!--Personal data card-->
+      <ion-card class="__self_info">
+        <ion-card-header>
+          <ion-card-subtitle>
+            Información Personal
+          </ion-card-subtitle>
+        </ion-card-header>
+
+        <ion-card-content class="data_list">
+          <ul>
+            <li><span>Cédula:</span>&nbsp;175062998-0</li>
+            <li><span>Correo:</span>&nbsp;bryand9970&#64;gmail.com</li>
+            <li><span>Fecha de Nacimiento:</span>&nbsp;10/Nov./1999</li>
+            <li><span>Ciudad:</span>&nbsp;Quito, Ecuador</li>
+          </ul>
+        </ion-card-content>
+      </ion-card>
+
+      <!--About card-->
+      <ion-card>
+        <ion-card-header>
+          <ion-card-subtitle>
+            Sobre Mí
+          </ion-card-subtitle>
+        </ion-card-header>
+
+        <ion-card-content class="__me_info">
+            Hola, soy Paul y soy un desarrollador front-end apasionado por Flutter y los videojuegos. <br> Me encanta crear interfaces de usuario intuitivas y elegantes que atraigan a los usuarios a primera vista aprovechando la flexibilidad de Flutter para crear aplicaciones web y móviles.
+            <br/>
+            <br/>
+            Soy amante de las nuevas tecnologías, el autoaprendizaje y llevar mis habilidades al siguiente nivel. Siempre estoy dispuesto a participar en nuevos proyectos interesantes y hacer una contribución significativa a su éxito.
+        </ion-card-content>
+      </ion-card>
+
+      <!--Academic Info card-->
+      <ion-card class="_academic_card">
+        <ion-card-header>
+          <ion-card-subtitle>
+            Información Académica
+          </ion-card-subtitle>
+        </ion-card-header>
+
+        <ion-card-content class="__academic_content">
+          <div class="academic_pins">
+              <h3>Tecnólogo Superior en Desarrollo Software</h3>
+              <p>Escuela Politénica Nacional</p>
+              <span>Ubicación: Quito, Ecuador</span><br>
+              <span>Año de inicio: 2021</span><br>
+              <span>Semestre: 5</span>
+          </div>
+          <br>
+          <div class="_academic_pins">
+            <h3>Bachiller en Ciencias</h3>
+            <p>Colegio Nacional "Juan Pío Montúfar"</p>
+            <span>Ubicación: Quito, Ecuador</span><br>
+            <span>Año de inicio: 2012</span><br>
+            <span>Añode finalización: 2017</span>
+        </div>
+        </ion-card-content>
+      </ion-card>
+
+      <!--Social media card-->
+      <ion-card>
+        <ion-card-header>
+          <ion-card-subtitle>
+            Redes Sociales
+          </ion-card-subtitle>
+        </ion-card-header>
+
+        <ion-card-content>
+          <ion-grid [fixed]="true">
+          <ion-row class="ion-align-items-center">
+            <ion-col>
+              <a href="https://github.com/bryandelgado99">
+              <ion-icon class="github_logo" name="logo-github"></ion-icon>
+              <br/>
+              <ion-label>GitHub</ion-label></a>
+            </ion-col>
+            <ion-col>
+              <a href="https://www.instagram.com/paul_delgado_dev?igsh=MWlpc3BqdWFiZXNiNQ==">
+              <ion-icon class="insta_logo" name="logo-instagram"></ion-icon>
+              <br/>
+              <ion-label>Instagram</ion-label></a>
+            </ion-col>
+          </ion-row>
+          <ion-row class="ion-align-items-center">
+            <ion-col>
+              <a href="https://www.behance.net/bryandelgado15">
+              <ion-icon class="behance_logo" name="logo-behance"></ion-icon>
+              <br/>
+              <ion-label>Behance</ion-label></a>
+            </ion-col>
+            <ion-col>
+              <a href="https://www.linkedin.com/in/bryan-delgado-24795520b">
+              <ion-icon class="linkedin_logo" name="logo-linkedin"></ion-icon>
+              <br/>
+              <ion-label>LinkedIn</ion-label></a>
+            </ion-col>
+          </ion-row>
+        </ion-grid>
+        </ion-card-content>
+      </ion-card>
+
+    </div>
+
+    <div class="__aux"></div>
+  </section>
+</main>
+
+

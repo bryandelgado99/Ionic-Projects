@@ -1,0 +1,7 @@
+{
+  "name": "cvapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}

@@ -1,0 +1,162 @@
+$primary-color : #007aff;
+$primary-text: white;
+
+._main_container{
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  width: 100%;
+  height: auto;
+}
+
+.second_title{
+  font-weight: bold;
+  font-size: 30px;
+  padding: 15px;
+  margin-bottom: -5px;
+}
+
+ion-item-divider{
+  display: inline-flex;
+  justify-content: left;
+  align-items: self-start;
+  background-color: transparent;
+  border-bottom: 1px solid rgb(177, 175, 175);
+  width: 90%;
+  margin-left: 20px;
+}
+
+
+.__card_hab_cont{
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: start;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+}
+
+ion-card{
+  margin-top: 0%;
+}
+
+ion-col{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+  & img{
+  width: 30px;
+  }
+}
+
+._info_col{
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  align-items: start;
+
+  & ion-card-content{
+    align-content: center;
+    text-align: center;
+    color: rgb(233, 233, 233);
+  }
+}
+
+._btn_items{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  & .windows_btn{
+    color: rgb(37, 116, 180);
+  }
+}
+
+.flutter_card{
+  background: #36D1DC;  /* fallback for old browsers */
+  background: linear-gradient(to right, #5B86E5, #36D1DC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+.react_card{
+  background: #00bf8f;  /* fallback for old browsers */
+  background: linear-gradient(to right, #001510, #00bf8f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+.flet_card{
+  background: #de6161;  /* fallback for old browsers */
+  background: linear-gradient(75deg, #1136a5, #de6161); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+.mongo_card{
+  background: #468a26;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #8bb15d, #56ab2f);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #8bb15d, #56ab2f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.sqlite_card{
+  background: #1A2980;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #26D0CE, #1A2980);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #26D0CE, #1A2980); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.wsl_card{
+  background: #D38312;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #A83279, #D38312);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #A83279, #D38312); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+swiper-container{
+  padding: 10px 20px;
+  margin-top: 10px;
+  width: 100%;
+  height: auto;
+  margin-bottom: -30px;
+}
+
+swiper-slide{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+
+  & ._icon_hab{
+    display: inline-flex;
+    width: 190px;
+    padding: 0px 10px;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+
+    & img{
+      width: 45px;
+    }
+  }
+
+  & ion-card-content{
+    font-size: 1.25em;
+    font-weight: bolder;
+  }
+
+  & ._hability_card{
+    background: #1488CC;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2B32B2, #1488CC);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2B32B2, #1488CC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    padding: 25px;
+  }
+
+
+
+}
+
+
