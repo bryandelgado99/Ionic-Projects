@@ -1,18 +1,15 @@
-# 🌎🔥 GPS_Firebase
+# 🔐🔥 Login Firebase
 
-GPS con guardado de datos en real-time-database.
+Un Login en realizado en Ionic que cuenta con un guardado en una base de datos en Firebase
 
-La aplicación web permite mostrar la ubicacion del usuario, junto con
-una representacion en maps.
-
-![Logo](https://cdn.freebiesupply.com/logos/large/2x/gps-logo-png-transparent.png)
+![Logo](Recursos/img/logo.jpg)
 
 ## 💻 Tecnologías
 
 **😀 Cliente:**
-Ionic - Android - ReadME - Html - CSS - Javascript - Typescript
+Ionic - ReadME - Html - CSS - Javascript - Typescript
 
-[![Tecnologías](https://simpleskill.icons.workers.dev/svg?i=ionic,android,readme,html5,CSS3,javascript,typescript)](https://skillicons.dev)
+[![Tecnologías](https://simpleskill.icons.workers.dev/svg?i=ionic,readme,html5,CSS3,javascript,typescript)](https://skillicons.dev)
 
 **🖥️ Servidor:**
 Angular - Firebase - NPM - Javascript - Typescript - Git - Capacitor
@@ -89,16 +86,16 @@ Para ejecutar este proyecto necesitaras dirijirte a archivo .env y colocar tus v
 
 - [@bryandelgado99](https://github.com/bryandelgado99)
 
-![Perfil](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Perfil](Recursos/img_autores/2.jpg)
 
 - [@Mino-Mateo](https://github.com/Mino-Mateo)
 
-![Perfil](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Perfil](Recursos/img_autores/1.jpg)
 
 - [@natycasillas](https://github.com/natycasillas)
 
-![Perfil](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Perfil](Recursos/img_autores/4.jpg)
 
 - [@DannyYanacallo1755](https://github.com/DannyYanacallo1755)
 
-![Perfil](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Perfil](Recursos/img_autores/3.jpg)
