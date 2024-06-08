@@ -12,6 +12,8 @@ $RECYCLE.BIN/
 *.log
 log.txt
 
+# Ignorar src/index.html
+src/index.html
 
 /.sourcemaps
 /.versions

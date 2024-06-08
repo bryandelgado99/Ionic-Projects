@@ -1,15 +1,18 @@
-# 📦📱 Galeria de fotos
+# 🌎🔥 GPS_Firebase
 
-Una galeria de fotos que utiliza la cámara del dispositivo, ademas permite ver las imágenes en una galeria local.
+GPS con guardado de datos en real-time-database.
 
-![Logo](Recursos/img/logo.jpg)
+La aplicación web permite mostrar la ubicacion del usuario, junto con
+una representacion en maps.
+
+![Logo](Recursos/img/logo.png)
 
 ## 💻 Tecnologías
 
 **😀 Cliente:**
-Ionic - ReadME - Html - CSS - Javascript - Typescript - Android
+Ionic - Android - ReadME - Html - CSS - Javascript - Typescript
 
-[![Tecnologías](https://simpleskill.icons.workers.dev/svg?i=ionic,readme,html5,CSS3,javascript,typescript,android)](https://skillicons.dev)
+[![Tecnologías](https://simpleskill.icons.workers.dev/svg?i=ionic,android,readme,html5,CSS3,javascript,typescript)](https://skillicons.dev)
 
 **🖥️ Servidor:**
 Angular - Firebase - NPM - Javascript - Typescript - Git - Capacitor
@@ -57,6 +60,24 @@ Recuerda la aplicacion se despliega en
 ```
 
 Todo esto es necesario para que pueda funcionar correctamente
+
+## 🍃 Variables de Entorno
+
+Para ejecutar este proyecto necesitaras dirijirte a archivo .env y colocar tus variables de entorno de la siguiente manera:
+
+```js
+  firebaseConfig :
+  {
+  apiKey: 'API_KEY',
+  authDomain: 'DOMINIO',
+  databaseURL: 'URL',
+  projectId: 'ID',
+  storageBucket: 'Storage',
+  messagingSenderId: 'ID_Mensaje',
+  appId: 'APP_ID',
+  measurementId: 'ID_Medida'
+  }
+```
 
 ## 🖼️ Screenshots
 
