@@ -1,6 +1,6 @@
-# 📦📱 Galeria de fotos
+# 📦📱 GPS_Firebase
 
-Una galeria de fotos que utiliza la cámara del dispositivo, ademas permite ver las imágenes en una galeria local.
+GPS con guardado de datos en firestore
 
 ![Logo](Recursos/img/logo.jpg)
 
