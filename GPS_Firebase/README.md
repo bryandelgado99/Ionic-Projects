@@ -2,8 +2,7 @@
 
 GPS con guardado de datos en real-time-database.
 
-La aplicación web permite mostrar la ubicacion del usuario, junto con
-una representacion en maps.
+La aplicación web permite mostrar la ubicacion del usuario, y guardarla en una base de datos
 
 ![Logo](Recursos/img/logo.png)
 
