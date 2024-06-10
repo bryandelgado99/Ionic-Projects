@@ -61,11 +61,49 @@ Recuerda la aplicacion se despliega en
   http://localhost:4200/
 ```
 
+
+Para que funcione el gps se debe añadir en la carpeta src, un index.html con este codigo
+
+```bash
+  <!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <title>Ionic App</title>
+
+  <base href="/" />
+
+  <meta name="color-scheme" content="light dark" />
+  <meta name="viewport" content="viewport-fit=cover, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="format-detection" content="telephone=no" />
+  <meta name="msapplication-tap-highlight" content="no" />
+
+  <link rel="icon" type="image/png" href="assets/icon/favicon.png" />
+
+  <!-- add to homescreen for ios -->
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+
+   <!-- Google Maps API -->
+   <script src="[Tu API]"></script>
+</head>
+
+<body>
+  <app-root></app-root>
+</body>
+
+</html>
+```
+
+Y para finalizar debes ingresar una API conseguida en google cloud
+
 Todo esto es necesario para que pueda funcionar correctamente
 
 ## 🖼️ Screenshots
 
-![App Screenshot](Recursos/img/2d0de122-ea17-47a5-98a2-057ae9edfd38.jpeg)
+
+![App Screenshot](Recursos/img/Captura-de-pantalla-2024-06-08-184100.png)
 
 ![App Screenshot](Recursos/img/firebase.png)
 
