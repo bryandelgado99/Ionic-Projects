@@ -2,7 +2,7 @@
 
 GPS con guardado de datos en firestore
 
-![Logo](Recursos/img/logo.png)
+![Logo](Recursos/img/maps.jpeg)
 
 ## 💻 Tecnologías
 
@@ -78,9 +78,9 @@ Para ejecutar este proyecto necesitaras dirijirte a archivo .env y colocar tus v
 
 ## 🖼️ Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](Recursos/img/2d0de122-ea17-47a5-98a2-057ae9edfd38.jpeg)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](Recursos/img/firebase.png)
 
 ## 👫 Autores
 
