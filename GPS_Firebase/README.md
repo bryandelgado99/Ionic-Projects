@@ -1,15 +1,15 @@
-# 📦📱 GPS_Firebase
+# 🌎🔥 GPS_Firebase
 
 GPS con guardado de datos en firestore
 
-![Logo](Recursos/img/maps.jpeg)
+![Logo](Recursos/img/logo.png)
 
 ## 💻 Tecnologías
 
 **😀 Cliente:**
-Ionic - ReadME - Html - CSS - Javascript - Typescript - Android
+Ionic - Android - ReadME - Html - CSS - Javascript - Typescript
 
-[![Tecnologías](https://simpleskill.icons.workers.dev/svg?i=ionic,readme,html5,CSS3,javascript,typescript,android)](https://skillicons.dev)
+[![Tecnologías](https://simpleskill.icons.workers.dev/svg?i=ionic,android,readme,html5,CSS3,javascript,typescript)](https://skillicons.dev)
 
 **🖥️ Servidor:**
 Angular - Firebase - NPM - Javascript - Typescript - Git - Capacitor
@@ -58,11 +58,29 @@ Recuerda la aplicacion se despliega en
 
 Todo esto es necesario para que pueda funcionar correctamente
 
+## 🍃 Variables de Entorno
+
+Para ejecutar este proyecto necesitaras dirijirte a archivo .env y colocar tus variables de entorno de la siguiente manera:
+
+```js
+  firebaseConfig :
+  {
+  apiKey: 'API_KEY',
+  authDomain: 'DOMINIO',
+  databaseURL: 'URL',
+  projectId: 'ID',
+  storageBucket: 'Storage',
+  messagingSenderId: 'ID_Mensaje',
+  appId: 'APP_ID',
+  measurementId: 'ID_Medida'
+  }
+```
+
 ## 🖼️ Screenshots
 
-![App Screenshot](Recursos/img/2d0de122-ea17-47a5-98a2-057ae9edfd38.jpeg)
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-![App Screenshot](Recursos/img/firebase.png)
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 ## 👫 Autores
 
