@@ -7,7 +7,7 @@ La aplicación web permite mostrar la ubicacion del usuario, junto con
 una representacion en maps.
 
 
-![Logo](Recursos/img/maps.jpeg)
+![Logo](GPS_Tiempo_Real/Recursos/img/maps.jpeg)
 
 ## 💻 Tecnologías
 
@@ -103,24 +103,24 @@ Todo esto es necesario para que pueda funcionar correctamente
 ## 🖼️ Screenshots
 
 
-![App Screenshot](Recursos/img/firebase.png)
+![App Screenshot](GPS_Tiempo_Real/Recursos/img/firebase.png)
 
-![App Screenshot](Recursos/img/appmaps.png)
+![App Screenshot](GPS_Tiempo_Real/Recursos/img/appmaps.png)
 
 ## 👫 Autores
 
 - [@bryandelgado99](https://github.com/bryandelgado99)
 
-![Perfil](Recursos/img_autores/2.jpg)
+![Perfil](GPS_Tiempo_Real/Recursos/img_autores/2.jpg)
 
 - [@Mino-Mateo](https://github.com/Mino-Mateo)
 
-![Perfil](Recursos/img_autores/1.jpg)
+![Perfil](GPS_Tiempo_Real/Recursos/img_autores/1.jpg)
 
 - [@natycasillas](https://github.com/natycasillas)
 
-![Perfil](Recursos/img_autores/4.jpg)
+![Perfil](GPS_Tiempo_Real/Recursos/img_autores/4.jpg)
 
 - [@DannyYanacallo1755](https://github.com/DannyYanacallo1755)
 
-![Perfil](Recursos/img_autores/3.jpg)
+![Perfil](GPS_Tiempo_Real/Recursos/img_autores/3.jpg)
