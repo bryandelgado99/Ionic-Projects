@@ -2,7 +2,7 @@
 
 Una galeria de fotos que utiliza la cámara del dispositivo, ademas permite ver las imágenes en una galeria local.
 
-![Logo](Recursos/img/logo.jpg)
+<img src="Recursos/img/logo.jpg" width="150">
 
 ## 💻 Tecnologías
 
@@ -41,6 +41,20 @@ Inicia el servidor
 ```bash
   npx ng serve
 ```
+
+## 🎦 Capturas de pantalla del programa
+
+![App Screenshot](https://github.com/bryandelgado99/Ionllery-/blob/master/images/Captura%20de%20pantalla%202024-05-16%20230223.png?raw=true)
+![App Screenshot](https://github.com/bryandelgado99/Ionllery-/blob/master/images/Captura%20de%20pantalla%202024-05-16%20230244.png?raw=true)
+![App Screenshot](https://github.com/bryandelgado99/Ionllery-/blob/master/images/Imagen%20de%20WhatsApp%202024-05-16%20a%20las%2023.17.46_709034a2.jpg?raw=true)
+
+## Video del funcionamiento
+![App Screenshot](https://github.com/bryandelgado99/Ionllery-/blob/master/images/VideodeWhatsApp2024-05-16alas23.17.42_9953c7e2-ezgif.com-video-to-gif-converter.gif?raw=true)
+
+### 📱 Dispositivo Real
+- Android version: 12 ext 11
+- SDK version: 31
+- Device: TECNO Pova 4 
 
 ## 🛑 ADVERTENCIA
 
