@@ -107,6 +107,10 @@ Todo esto es necesario para que pueda funcionar correctamente
 
 ![App Screenshot](Recursos/img/appmaps.png)
 
+## 📲 APK
+
+[Descargar la última versión de la APK](GPS_Tiempo_Real/Recursos/maps_tiempo_real.apk)
+
 ## 👫 Autores
 
 - [@bryandelgado99](https://github.com/bryandelgado99)
