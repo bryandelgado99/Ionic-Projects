@@ -109,7 +109,7 @@ Todo esto es necesario para que pueda funcionar correctamente
 
 ## 📲 APK
 
-[Descargar la última versión de la APK](GPS_Tiempo_Real/Recursos/maps_tiempo_real.apk)
+[Descargar la última versión de la APK](https://github.com/bryandelgado99/Ionic-Projects/tree/main/GPS_Tiempo_Real/Recursos/maps_tiempo_real.apk)
 
 ## 👫 Autores
 
