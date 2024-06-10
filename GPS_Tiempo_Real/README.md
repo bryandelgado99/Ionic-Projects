@@ -107,6 +107,10 @@ Todo esto es necesario para que pueda funcionar correctamente
 
 ![App Screenshot](Recursos/img/appmaps.png)
 
+## 📲 APK
+
+[Descargar la última versión de la APK](https://github.com/bryandelgado99/Ionic-Projects/edit/gps_tiempo_real/GPS_Tiempo_Real/Recursos/maps_tiempo_real.apk)
+
 ## 👫 Autores
 
 - [@bryandelgado99](https://github.com/bryandelgado99)
@@ -124,4 +128,3 @@ Todo esto es necesario para que pueda funcionar correctamente
 - [@DannyYanacallo1755](https://github.com/DannyYanacallo1755)
 
 ![Perfil](Recursos/img_autores/3.jpg)
-
