@@ -105,7 +105,7 @@ Todo esto es necesario para que pueda funcionar correctamente
 
 ![App Screenshot](Recursos/img/Captura-de-pantalla-2024-06-08-184100.png)
 
-![App Screenshot](Recursos/img/firebase.png)
+![App Screenshot](Recursos/img/appmaps.png)
 
 ## 👫 Autores
 
