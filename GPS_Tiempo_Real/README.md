@@ -1,18 +1,20 @@
-# 🌎🔥 GPS_Firebase
+# 📦📱 GPS_Tiempo_Real
+
 
 GPS con guardado de datos en real-time-database.
 
 La aplicación web permite mostrar la ubicacion del usuario, junto con
 una representacion en maps.
 
-![Logo](Recursos/img/logo.png)
+
+![Logo](Recursos/img/maps.jpeg)
 
 ## 💻 Tecnologías
 
 **😀 Cliente:**
-Ionic - Android - ReadME - Html - CSS - Javascript - Typescript
+Ionic - ReadME - Html - CSS - Javascript - Typescript - Android
 
-[![Tecnologías](https://simpleskill.icons.workers.dev/svg?i=ionic,android,readme,html5,CSS3,javascript,typescript)](https://skillicons.dev)
+[![Tecnologías](https://simpleskill.icons.workers.dev/svg?i=ionic,readme,html5,CSS3,javascript,typescript,android)](https://skillicons.dev)
 
 **🖥️ Servidor:**
 Angular - Firebase - NPM - Javascript - Typescript - Git - Capacitor
@@ -59,31 +61,51 @@ Recuerda la aplicacion se despliega en
   http://localhost:4200/
 ```
 
-Todo esto es necesario para que pueda funcionar correctamente
 
-## 🍃 Variables de Entorno
+Para que funcione el gps se debe añadir en la carpeta src, un index.html con este codigo
 
-Para ejecutar este proyecto necesitaras dirijirte a archivo .env y colocar tus variables de entorno de la siguiente manera:
+```bash
+  <!DOCTYPE html>
+<html lang="en">
 
-```js
-  firebaseConfig :
-  {
-  apiKey: 'API_KEY',
-  authDomain: 'DOMINIO',
-  databaseURL: 'URL',
-  projectId: 'ID',
-  storageBucket: 'Storage',
-  messagingSenderId: 'ID_Mensaje',
-  appId: 'APP_ID',
-  measurementId: 'ID_Medida'
-  }
+<head>
+  <meta charset="utf-8" />
+  <title>Ionic App</title>
+
+  <base href="/" />
+
+  <meta name="color-scheme" content="light dark" />
+  <meta name="viewport" content="viewport-fit=cover, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="format-detection" content="telephone=no" />
+  <meta name="msapplication-tap-highlight" content="no" />
+
+  <link rel="icon" type="image/png" href="assets/icon/favicon.png" />
+
+  <!-- add to homescreen for ios -->
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+
+   <!-- Google Maps API -->
+   <script src="[Tu API]"></script>
+</head>
+
+<body>
+  <app-root></app-root>
+</body>
+
+</html>
 ```
+
+Y para finalizar debes ingresar una API conseguida en google cloud
+
+Todo esto es necesario para que pueda funcionar correctamente
 
 ## 🖼️ Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](Recursos/img/firebase.png)
+
+![App Screenshot](Recursos/img/appmaps.png)
 
 ## 👫 Autores
 
@@ -102,3 +124,4 @@ Para ejecutar este proyecto necesitaras dirijirte a archivo .env y colocar tus v
 - [@DannyYanacallo1755](https://github.com/DannyYanacallo1755)
 
 ![Perfil](Recursos/img_autores/3.jpg)
+
