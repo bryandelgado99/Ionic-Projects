@@ -1,0 +1,20 @@
+ion-card-content{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+
+  label{
+    margin-right: 25px;
+    margin-bottom: 10px;
+  }
+
+  md-filled-tonal-button{
+    padding: 24px;
+
+    input{
+      color: purple;
+    }
+  }
+}

@@ -1,0 +1,30 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Hola, me llamo Paul
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Hola, me llamo Paul</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <div id="container">
+
+    <ion-button [routerLink]="['/login']">
+      <ion-icon name="log-in-outline"></ion-icon>
+      Inicia Sesión
+    </ion-button>
+
+
+    <ion-button [routerLink]="['/register']">
+      <ion-icon name="document-text-outline"></ion-icon>
+      Registrate
+    </ion-button>
+
+  </div>
+</ion-content>
